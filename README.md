@@ -14,6 +14,12 @@ Dossier Conception :
 - Diagramme de séquences 
 - Arborescence
 
+Dossier Maquettes :
+- Fichier pencil
+- V1 page d'accueil 
+- VF page d'accueil 
+- Page chats en atttente famille d'accueil
+
 
 Dossier SQL : 
 - Creation base de données
