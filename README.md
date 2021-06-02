@@ -12,10 +12,13 @@ Dossier Conception :
 - Diagramme cas d'utilisation
 - Diagramme d'activités
 - Diagramme de séquences 
-- MCD
-- MLD
+- Arborescence
+
 
 Dossier SQL : 
 - Creation base de données
 - Creation des tables 
 - Requêtes SQL 
+- Diagramme de classe
+- MCD
+- MLD
