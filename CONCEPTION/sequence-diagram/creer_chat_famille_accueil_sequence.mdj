@@ -61,8 +61,8 @@
 														"$ref": "AAAAAAF5rOcDHWys3T0="
 													},
 													"font": "Arial;13;0",
-													"left": 112.72998046875,
-													"top": 69,
+													"left": 104.72998046875,
+													"top": 53,
 													"width": 171.8408203125,
 													"height": 13,
 													"text": "créer un chat famille d'accueil"
@@ -74,18 +74,18 @@
 														"$ref": "AAAAAAF5rOcDHWys3T0="
 													},
 													"font": "Arial;13;1",
-													"left": 93,
-													"top": 69,
+													"left": 85,
+													"top": 53,
 													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 88,
-											"top": 64,
-											"width": 1153,
-											"height": 409,
+											"left": 80,
+											"top": 48,
+											"width": 1185,
+											"height": 705,
 											"nameLabel": {
 												"$ref": "AAAAAAF5rOcDHmytddA="
 											},
@@ -353,7 +353,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 416,
+															"left": 448,
 															"height": 13
 														},
 														{
@@ -363,7 +363,7 @@
 																"$ref": "AAAAAAF5rOiHOG0IdCc="
 															},
 															"font": "Arial;13;1",
-															"left": 989,
+															"left": 1005,
 															"top": 47,
 															"width": 62.736328125,
 															"height": 13,
@@ -377,7 +377,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 416,
+															"left": 448,
 															"width": 106.20263671875,
 															"height": 13,
 															"text": "(from Interaction1)"
@@ -390,13 +390,13 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 416,
+															"left": 448,
 															"height": 13,
 															"horizontalAlignment": 1
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 984,
+													"left": 1000,
 													"top": 40,
 													"width": 72.736328125,
 													"height": 40,
@@ -423,14 +423,14 @@
 														"$ref": "AAAAAAF5rOiHOG0GCkU="
 													},
 													"font": "Arial;13;0",
-													"left": 1020,
+													"left": 1036,
 													"top": 80,
 													"width": 1,
 													"height": 377
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 984,
+											"left": 1000,
 											"top": 40,
 											"width": 72.736328125,
 											"height": 417,
@@ -461,9 +461,9 @@
 														"$ref": "AAAAAAF5rOkuKG0vyXA="
 													},
 													"font": "Arial;13;0",
-													"left": 356,
+													"left": 352,
 													"top": 112,
-													"width": 312.89501953125,
+													"width": 321.57861328125,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -471,7 +471,7 @@
 														"$ref": "AAAAAAF5rOkuKG0we+c="
 													},
 													"edgePosition": 1,
-													"text": "1 : Clique sur le bouton ajouter un chat famille accueil"
+													"text": "1 : Le lien ajouter un chat famille accueil est selectionné"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -572,17 +572,17 @@
 														"$ref": "AAAAAAF5rOnt3G1I4oE="
 													},
 													"font": "Arial;13;0",
-													"left": 744,
+													"left": 735,
 													"top": 139,
-													"width": 209.57421875,
+													"width": 211.021484375,
 													"height": 13,
-													"alpha": 1.5786076672446834,
-													"distance": 128.00390619039717,
+													"alpha": 1.5791284665406364,
+													"distance": 120.00416659433121,
 													"hostEdge": {
 														"$ref": "AAAAAAF5rOnt3G1JQUA="
 													},
 													"edgePosition": 1,
-													"text": "2 : Récupération modèle de création"
+													"text": "2 : Le modèle de création est chargé"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -683,9 +683,9 @@
 														"$ref": "AAAAAAF5rOpvlm1h6vc="
 													},
 													"font": "Arial;13;0",
-													"left": 443,
+													"left": 439,
 													"top": 189,
-													"width": 137.03955078125,
+													"width": 145.72314453125,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -693,7 +693,7 @@
 														"$ref": "AAAAAAF5rOpvlm1io/w="
 													},
 													"edgePosition": 1,
-													"text": "3 : Affiche le formulaire"
+													"text": "3 : Le formulaire s affiche"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -795,9 +795,9 @@
 														"$ref": "AAAAAAF5rOqrwG132jI="
 													},
 													"font": "Arial;13;0",
-													"left": 414,
+													"left": 404,
 													"top": 224,
-													"width": 197.25341796875,
+													"width": 216.77880859375,
 													"height": 13,
 													"alpha": 1.570795771239341,
 													"distance": 18,
@@ -805,7 +805,7 @@
 														"$ref": "AAAAAAF5rOqrwG14PFw="
 													},
 													"edgePosition": 1,
-													"text": "4 : Envoi le formulaire completé"
+													"text": "4 : Le formulaire completé est envoyé"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -906,9 +906,9 @@
 														"$ref": "AAAAAAF5rOrsl22P2Dc="
 													},
 													"font": "Arial;13;0",
-													"left": 735,
+													"left": 733,
 													"top": 256,
-													"width": 218.93701171875,
+													"width": 223.98974609375,
 													"height": 13,
 													"alpha": 1.603042206631398,
 													"distance": 124.06449935416659,
@@ -916,7 +916,7 @@
 														"$ref": "AAAAAAF5rOrsl22Q2uA="
 													},
 													"edgePosition": 1,
-													"text": "5 : Vérification des champs completés"
+													"text": "5 : Les champs completés sont vérifiés"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1017,17 +1017,17 @@
 														"$ref": "AAAAAAF5rOvVoW2rkEc="
 													},
 													"font": "Arial;13;0",
-													"left": 707,
+													"left": 704,
 													"top": 296,
-													"width": 289.76416015625,
+													"width": 329.5322265625,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 0.837980672522477,
+													"distance": 13.45362404707371,
 													"hostEdge": {
 														"$ref": "AAAAAAF5rOvVoW2s7Ow="
 													},
 													"edgePosition": 1,
-													"text": "6 : Demande requête création chat famille accueil"
+													"text": "6 : La requête création chat famille accueil est demandée"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1040,7 +1040,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 851,
+													"left": 859,
 													"top": 281,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1061,7 +1061,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 851,
+													"left": 859,
 													"top": 316,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -1081,7 +1081,7 @@
 														"$ref": "AAAAAAF5rOvVoW2rkEc="
 													},
 													"font": "Arial;13;0",
-													"left": 1013,
+													"left": 1029,
 													"top": 312,
 													"width": 14,
 													"height": 97
@@ -1094,7 +1094,7 @@
 											"tail": {
 												"$ref": "AAAAAAF5rOhDq2zq/mw="
 											},
-											"points": "690:312;1013:312",
+											"points": "690:312;1029:312",
 											"nameLabel": {
 												"$ref": "AAAAAAF5rOvVoW2t5h0="
 											},
@@ -1128,17 +1128,17 @@
 														"$ref": "AAAAAAF5rOyBP23EcYY="
 													},
 													"font": "Arial;13;0",
-													"left": 1071,
+													"left": 1078,
 													"top": 320,
-													"width": 154.66064453125,
+													"width": 157.55517578125,
 													"height": 13,
-													"alpha": 1.614246217469447,
-													"distance": 92.0869154657707,
+													"alpha": 1.6183784244157722,
+													"distance": 84.09518416651456,
 													"hostEdge": {
 														"$ref": "AAAAAAF5rOyBP23Fte0="
 													},
 													"edgePosition": 1,
-													"text": "7 : Execution de la requête"
+													"text": "7 : La requête est executée"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1151,7 +1151,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1080,
+													"left": 1096,
 													"top": 323,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1172,7 +1172,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1046,
+													"left": 1062,
 													"top": 324,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -1192,7 +1192,7 @@
 														"$ref": "AAAAAAF5rOyBP23EcYY="
 													},
 													"font": "Arial;13;0",
-													"left": 1020,
+													"left": 1036,
 													"top": 340,
 													"width": 14,
 													"height": 29
@@ -1205,7 +1205,7 @@
 											"tail": {
 												"$ref": "AAAAAAF5rOiHOW0NqgU="
 											},
-											"points": "1026:320;1056:320;1056:340;1033:340",
+											"points": "1042:320;1072:320;1072:340;1049:340",
 											"nameLabel": {
 												"$ref": "AAAAAAF5rOyBP23Gqrc="
 											},
@@ -1239,7 +1239,7 @@
 														"$ref": "AAAAAAF5rO0mFW3hTSs="
 													},
 													"font": "Arial;13;0",
-													"left": 772,
+													"left": 780,
 													"top": 396,
 													"width": 157.77734375,
 													"height": 13,
@@ -1262,7 +1262,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 850,
+													"left": 858,
 													"top": 411,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1283,7 +1283,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 851,
+													"left": 859,
 													"top": 376,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -1317,7 +1317,7 @@
 											"tail": {
 												"$ref": "AAAAAAF5rOiHOW0NqgU="
 											},
-											"points": "1013:392;690:392",
+											"points": "1029:392;690:392",
 											"nameLabel": {
 												"$ref": "AAAAAAF5rO0mFW3job4="
 											},
@@ -1351,9 +1351,9 @@
 														"$ref": "AAAAAAF5rO1po236Jv4="
 													},
 													"font": "Arial;13;0",
-													"left": 424,
+													"left": 408,
 													"top": 415,
-													"width": 175.34765625,
+													"width": 206.99072265625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -1361,7 +1361,7 @@
 														"$ref": "AAAAAAF5rO1po237Xps="
 													},
 													"edgePosition": 1,
-													"text": "9 : Affiche message chat crée"
+													"text": "9 : Le message \"chat crée\" s affiche"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1442,6 +1442,32 @@
 											"activation": {
 												"$ref": "AAAAAAF5rO1ppG3/uvw="
 											}
+										},
+										{
+											"_type": "UMLNoteView",
+											"_id": "AAAAAAF50M/KwOLwBc8=",
+											"_parent": {
+												"$ref": "AAAAAAF5rOcDHWyr3RY="
+											},
+											"font": "Arial;13;0",
+											"left": 128,
+											"top": 496,
+											"width": 505,
+											"height": 185,
+											"text": "(2) Scénario Alternatif : \n2.1 Le SI indique à l'internaute que la récupération du modèle n'a pas fonctionné.\n2.2 Le rédacteur web doit répéter son action. \nDans le scénario nominal on considère que le modèle se charge.\n(5) Scénario Alternatif : \nCe Scénario commence au point 14 du scénario nominal \n5.1 Le SI indique au rédacteur web que les informations saisies ne sont pas juste ou mal rempli. \n5.2 Le rédacteur web doit saisir à nouveau les champs.\nDans le scénario nominal on considère que les informations sont correctements remplies. \n"
+										},
+										{
+											"_type": "UMLNoteView",
+											"_id": "AAAAAAF50NCJv+MNCPg=",
+											"_parent": {
+												"$ref": "AAAAAAF5rOcDHWyr3RY="
+											},
+											"font": "Arial;13;0",
+											"left": 656,
+											"top": 496,
+											"width": 497,
+											"height": 105,
+											"text": "(19) Scénario d'erreur :\n19.1 Connexion à la BDD impossible. \n19.2 Le SI indique un echec de la connexion.\nCe Scénario se termine à ce point. "
 										}
 									]
 								}
@@ -1453,7 +1479,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Clique sur le bouton ajouter un chat famille accueil",
+									"name": "Le lien ajouter un chat famille accueil est selectionné",
 									"source": {
 										"$ref": "AAAAAAF5rOfP8Wy+Zww="
 									},
@@ -1467,7 +1493,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Récupération modèle de création",
+									"name": "Le modèle de création est chargé",
 									"source": {
 										"$ref": "AAAAAAF5rOhDq2zjbd4="
 									},
@@ -1481,7 +1507,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Affiche le formulaire",
+									"name": "Le formulaire s affiche",
 									"source": {
 										"$ref": "AAAAAAF5rOhDq2zjbd4="
 									},
@@ -1496,7 +1522,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Envoi le formulaire completé",
+									"name": "Le formulaire completé est envoyé",
 									"source": {
 										"$ref": "AAAAAAF5rOfP8Wy+Zww="
 									},
@@ -1510,7 +1536,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Vérification des champs completés",
+									"name": "Les champs completés sont vérifiés",
 									"source": {
 										"$ref": "AAAAAAF5rOhDq2zjbd4="
 									},
@@ -1524,7 +1550,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Demande requête création chat famille accueil",
+									"name": "La requête création chat famille accueil est demandée",
 									"source": {
 										"$ref": "AAAAAAF5rOhDq2zjbd4="
 									},
@@ -1538,7 +1564,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Execution de la requête",
+									"name": "La requête est executée",
 									"source": {
 										"$ref": "AAAAAAF5rOiHOG0GCkU="
 									},
@@ -1567,7 +1593,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5rOcDHWyqHzU="
 									},
-									"name": "Affiche message chat crée",
+									"name": "Le message \"chat crée\" s affiche",
 									"source": {
 										"$ref": "AAAAAAF5rOhDq2zjbd4="
 									},
