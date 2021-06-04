@@ -48,7 +48,7 @@
 											"top": 212,
 											"width": 345,
 											"height": 13,
-											"text": "Admin interface",
+											"text": "Rédacteur web connecté",
 											"verticalAlignment": 3
 										}
 									],
@@ -1820,7 +1820,7 @@
 													"font": "Arial;13;1",
 													"left": 765,
 													"top": 1071,
-													"width": 320.9755859375,
+													"width": 327,
 													"height": 13,
 													"text": "Afficher message problème lors de l'enregistrement"
 												},
@@ -1855,7 +1855,7 @@
 											"font": "Arial;13;0",
 											"left": 760,
 											"top": 1064,
-											"width": 330.9755859375,
+											"width": 337,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF5qImzr0o+PZs="
@@ -1875,7 +1875,7 @@
 									"containerChangeable": true,
 									"left": 760,
 									"top": 1064,
-									"width": 330.9755859375,
+									"width": 337,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF5qImzr0o9lD8="
@@ -2123,8 +2123,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 938,
-											"top": 1117,
+											"left": 940,
+											"top": 1118,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2144,8 +2144,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 953,
-											"top": 1117,
+											"left": 955,
+											"top": 1119,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2165,8 +2165,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 909,
-											"top": 1118,
+											"left": 911,
+											"top": 1117,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2184,7 +2184,7 @@
 										"$ref": "AAAAAAF5qImzrko8NJQ="
 									},
 									"lineStyle": 1,
-									"points": "924:1105;924:1143",
+									"points": "927:1105;925:1143",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF5qIqYkEqPQJk="
@@ -2439,9 +2439,9 @@
 													"font": "Arial;13;0",
 													"left": -160,
 													"top": -240,
-													"width": 128.5908203125,
+													"width": 182.08251953125,
 													"height": 13,
-													"text": "(from Admin interface)"
+													"text": "(from Rédacteur web connecté)"
 												},
 												{
 													"_type": "LabelView",
@@ -2660,7 +2660,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF5fnXGFoHA3QI="
 							},
-							"name": "Afficher message problème lors de l'enregistrement"
+							"name": "Afficher message problème lors de l'enregistrement",
+							"kind": "sendSignal"
 						},
 						{
 							"_type": "UMLActivityFinalNode",
@@ -3250,7 +3251,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5fnXGFoHA3QI="
 							},
-							"name": "Admin interface",
+							"name": "Rédacteur web connecté",
 							"nodes": [
 								{
 									"_type": "UMLAction",
@@ -3356,7 +3357,8 @@
 									"_parent": {
 										"$ref": "AAAAAAF5fsaB1YHbm0M="
 									},
-									"name": "Afficher signal champs incomplets"
+									"name": "Afficher signal champs incomplets",
+									"kind": "sendSignal"
 								}
 							]
 						},
