@@ -1210,7 +1210,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -80,
-													"top": 64,
+													"top": 48,
 													"height": 13
 												},
 												{
@@ -1221,10 +1221,10 @@
 													},
 													"font": "Arial;13;1",
 													"left": 1221,
-													"top": 911,
+													"top": 903,
 													"width": 119.9453125,
 													"height": 13,
-													"text": "Executer la requête"
+													"text": "Créer un chat"
 												},
 												{
 													"_type": "LabelView",
@@ -1235,7 +1235,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -80,
-													"top": 64,
+													"top": 48,
 													"width": 86.6708984375,
 													"height": 13,
 													"text": "(from Activity1)"
@@ -1249,14 +1249,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -80,
-													"top": 64,
+													"top": 48,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 1216,
-											"top": 904,
+											"top": 896,
 											"width": 129.9453125,
 											"height": 25,
 											"stereotypeLabel": {
@@ -1276,7 +1276,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 1216,
-									"top": 904,
+									"top": 896,
 									"width": 129.9453125,
 									"height": 41,
 									"nameCompartment": {
@@ -1570,7 +1570,7 @@
 										"$ref": "AAAAAAF5qIBoekl59/E="
 									},
 									"lineStyle": 2,
-									"points": "1280:944;1280:991;894:991",
+									"points": "1280:936;1280:991;894:991",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF5qIi760n50YQ="
@@ -2636,7 +2636,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5fnXGFoHA3QI="
 							},
-							"name": "Executer la requête"
+							"name": "Créer un chat"
 						},
 						{
 							"_type": "UMLDecisionNode",

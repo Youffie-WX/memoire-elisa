@@ -2208,7 +2208,7 @@
 													"top": 639,
 													"width": 145.9326171875,
 													"height": 13,
-													"text": "Executer de la requête"
+													"text": "Authentifier"
 												},
 												{
 													"_type": "LabelView",
@@ -2877,7 +2877,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5flYkPT3xI+4="
 									},
-									"name": "Executer de la requête"
+									"name": "Authentifier"
 								}
 							]
 						}
